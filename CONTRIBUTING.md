@@ -13,16 +13,16 @@ Você tem vontade de contribuir, mas não se sente à vontade em abrir issues, P
 
 ## Primeira Contribuição 
 Como fazer sua primeira contribuição:
-* 1. Crie uma Conta no GitHub
-* 2. Encontre uma Issue para trabalhar
-* 3. Ou Crie uma Issue
-* 4. Instale o Git
-* 5. Faça um Fork do Projeto
-* 6. Clone o seu Fork
-* 7. Crie uma Nova Branch
-* 8. Pré-requisitos
-* 9. Estrutura do Projeto
-* 10. Faça sua Contribuição
+1. [Crie uma Conta no GitHub](#1-crie-uma-conta-no-github)
+2. [Encontre uma Issue para trabalhar](#2-encontre-uma-issue-para-trabalhar)
+3. [Ou Crie uma Issue](#3-ou-crie-uma-issue)
+4. [Instale o Git](#4-instale-o-git)
+5. [Faça um Fork do Projeto](#5-faça-um-fork-do-projeto)
+6. [Clone o seu Fork](#6-clone-o-seu-fork)
+7. [Crie uma Nova Branch](#7-crie-uma-nova-branch)
+8. [Pré-requisitos](#8-pré-requisitos)
+9. [Estrutura do Projeto](#9-estrutura-do-projeto)
+10. [Faça sua Contribuição](#10-faça-sua-contribuição)
 
 ### 1. Crie uma Conta no GitHub
 Certifique-se de ter [uma conta no GitHub](https://github.com/) e de estar com a sessão iniciada.

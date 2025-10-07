@@ -90,11 +90,11 @@ A arquitetura da linguagem é dividida entre:
  * Avaliador Sintático: após identificar os símbolos da linguagem no lexador, temos o Avaliador Sintático cuja função é verificar se os símbolos/tokens da linguagem estão organizados de forma lógica para execução das instruções.
  * Interpretador: executa a linguagem em tempo real, após receber a validaçao do Avaliador Sintático.
 
-Está indicado abaixo a localização dos arquivos destinados do lexador, avaliador sintático e interpretador em é empregada a lógica para composição e execução do Pituguês.
+Está indicado abaixo, entre `**` e em negrito, a localização dos arquivos destinados do lexador, avaliador sintático e interpretador em é empregada a lógica para composição e execução do Pituguês.
 
 Obs.: o Pituguês utiliza o mesmo Interpretador que a linguagem Delégua.
 
-```
+```md
 ├── delegua/
 │ ├── .github
 │ ├── .vscode

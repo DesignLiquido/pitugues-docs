@@ -260,6 +260,13 @@ it('Uso de funções de ordem superior', async () => {
 });
 ```
 
+### Verificação de Testes - Testes Automatizados
+Antes de enviar sua contribuição, verifique se suas modificações não causaram interferência nas funcionalidades existentes. Para isto, temos o testes automatizados que são executados a partir do comando:
+```
+yarn testes-unitarios
+```
+
+
 ### 12. Commit & Pull Request (PR)
 
 No diretório raiz, em um terminal de linha de comando, faça um commit executando passos:

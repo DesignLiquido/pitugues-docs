@@ -288,7 +288,7 @@ git commit -m "<mensagem_de_commit>"
 
 Envie suas alterações para o GitHub via push:
 ```
-git push --set-upstream origin <issue_number>
+git push --set-upstream origin <nome_da_branch>
 ```
 
 Após enviar suas alterações para o repositório remoto no GitHub, navegue até o [repositório no GitHub](https://github.com/DesignLiquido/delegua) e você poderá abrir seu Pull Request (PR) como indicado [neste tutorial do ebook Git e GitHub para Humanos](https://git-e-github.para-humanos.cumbuca.dev/10.-pull-requests-no-github/10.3-criando-um-pull-request-no-github).
